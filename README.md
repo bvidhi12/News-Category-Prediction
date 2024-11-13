@@ -1,10 +1,6 @@
 # News-Category-Prediction
 
 
-# News Category Prediction  
-**SI 670 Final Project**  
-**Vidhi Bhatt (bvidhi@umich.edu), Mansi Rathod (mansira@umich.edu), Shloki Jha (shlokij@umich.edu)**
-
 ## 1. Introduction  
 In today’s fast-paced digital era, categorizing and analyzing news articles is crucial to managing the massive flow of information. This project tackles these challenges by implementing a **News Category Prediction Model**, complemented by a **Sentiment Analysis Module** and a **News Recommendation System** to enhance the user experience. Using the MIND (Microsoft News Dataset), this project aims to create models capable of classifying news articles, assessing their sentiment, and delivering personalized recommendations.
 
